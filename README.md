@@ -2,10 +2,6 @@
 
 Weather on steroids — Chrome extension for real-time weather data.
 
-![Dark](assets/screenshot_4.jpg)
-![Light](assets/screenshot_2.jpg)
-![Side Panel](assets/screenshot_1.jpg)
-
 ## Features
 
 - Current temperature, feels-like, humidity, pressure, wind, UV index, visibility, cloud cover, precipitation
