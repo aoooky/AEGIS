@@ -5,6 +5,19 @@ Weather on steroids — Chrome extension for real-time weather data.
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nfeclmjahifijbgcplienllhidlibkdn?label=Chrome%20Web%20Store&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/AEGIS/nfeclmjahifijbgcplienllhidlibkdn)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/nfeclmjahifijbgcplienllhidlibkdn?label=Users&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/AEGIS/nfeclmjahifijbgcplienllhidlibkdn)
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="assets/light1.jpg" width="100%"></td>
+    <td><img src="assets/light2.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/light3.jpg" width="100%"></td>
+    <td><img src="assets/light4.jpg" width="100%"></td>
+  </tr>
+</table>
+
 ## Features
 
 - Current temperature, feels-like, humidity, pressure, wind, UV index, visibility, cloud cover, precipitation
