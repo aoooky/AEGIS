@@ -2,6 +2,9 @@
 
 Weather on steroids — Chrome extension for real-time weather data.
 
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/nfeclmjahifijbgcplienllhidlibkdn?label=Chrome%20Web%20Store&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/AEGIS/nfeclmjahifijbgcplienllhidlibkdn)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/users/nfeclmjahifijbgcplienllhidlibkdn?label=Users&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/AEGIS/nfeclmjahifijbgcplienllhidlibkdn)
+
 ## Features
 
 - Current temperature, feels-like, humidity, pressure, wind, UV index, visibility, cloud cover, precipitation
@@ -22,8 +25,7 @@ Weather on steroids — Chrome extension for real-time weather data.
 
 ### From Chrome Web Store
 
-1. Go to [AEGIS on Chrome Web Store](#)
-2. Click **Add to Chrome**
+[![Add to Chrome](https://img.shields.io/badge/-Add%20to%20Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/AEGIS/nfeclmjahifijbgcplienllhidlibkdn)
 
 ### Manual installation (developer mode)
 
